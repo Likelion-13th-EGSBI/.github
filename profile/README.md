@@ -70,7 +70,8 @@
 ![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Infrastructure & DevOps
-![Cloudtype](https://img.shields.io/badge/Cloudtype-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Network](https://img.shields.io/badge/Cloudflare%20Network-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
